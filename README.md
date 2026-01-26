@@ -16,7 +16,7 @@ These resources are [openly licensed](#user-content-fn-2)[^2] and free to be reu
 
 \~ _Matt Mac Kelly, JD, EdD_
 
-### Course Sourcebooks
+###
 
 
 
