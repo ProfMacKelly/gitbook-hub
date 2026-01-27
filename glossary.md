@@ -1,16 +1,10 @@
 # 🔤 Glossary
 
-#### act
+#### act (action)
 
 a bodily movement whether voluntary or involuntary
 
 Source: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
-
-***
-
-#### action
-
-see "act"
 
 ***
 
