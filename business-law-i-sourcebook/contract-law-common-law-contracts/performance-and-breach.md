@@ -1,6 +1,6 @@
 # Performance and Breach
 
-[Contract Law: Common Law Contracts](contract-law-part-i-common-law-contracts/)
+[Contract Law: Common Law Contracts](./)
 
 ## Performance and Breach
 

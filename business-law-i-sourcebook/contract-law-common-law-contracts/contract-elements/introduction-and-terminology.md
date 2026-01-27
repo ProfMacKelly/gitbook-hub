@@ -7,7 +7,7 @@
 Generally, there are three required elements of a contract: (1) **offer**, (2) **acceptance**, and (3) **consideration**.
 
 {% hint style="info" %}
-Note: some states and legal scholars expand this list to include whether the subject matter is [**legal**](../../affirmative-defenses-to-breach-claims.md#illegality), whether the parties have [**capacity**](../../affirmative-defenses-to-breach-claims.md#incapacity) to enter into a contract, and whether the law requires the contract's [**form**](../../affirmative-defenses-to-breach-claims.md#statute-of-frauds) to be in writing to be enforceable. However, these are best understood as [**affirmative defenses**](../../affirmative-defenses-to-breach-claims.md) to contract breach claims, especially in light of the fact that the only elements that all
+Note: some states and legal scholars expand this list to include whether the subject matter is [**legal**](../affirmative-defenses-to-breach-claims.md#illegality), whether the parties have [**capacity**](../affirmative-defenses-to-breach-claims.md#incapacity) to enter into a contract, and whether the law requires the contract's [**form**](../affirmative-defenses-to-breach-claims.md#statute-of-frauds) to be in writing to be enforceable. However, these are best understood as [**affirmative defenses**](../affirmative-defenses-to-breach-claims.md) to contract breach claims, especially in light of the fact that the only elements that all
 {% endhint %}
 
 #### Basic Contract Terminology
@@ -37,7 +37,7 @@ Except where otherwise noted, this page's content is adapted from:
 
 *   "Contracts" in Fundamentals of Business Law by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Source: https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/
 
-    ![](<../../.gitbook/assets/image (3)>)
+    ![](<../../../.gitbook/assets/image (3)>)
 * "Basic Taxonomy of Contracts" in The Legal Environment and Foundations of Business Law by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Source: https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-03-basic-taxonomy-of-contracts.html
 
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

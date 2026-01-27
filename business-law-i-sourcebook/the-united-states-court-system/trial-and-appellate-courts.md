@@ -2,7 +2,7 @@
 
 Within the federal court and the state court systems, there is a hierarchy of courts. The first level of court is a trial court or a court of limited jurisdiction, such as traffic court and small claims court. Trial courts accept evidence and testimony to determine what happened in a case. Appellate courts review the decisions of the trial court, without holding a new trial, to determine whether the parties received a fair trial and whether the appropriate law was applied.
 
-![Flow chart showing the structure of trial and appellate courts](<.gitbook/assets/image (10)>)
+![Flow chart showing the structure of trial and appellate courts](<../../.gitbook/assets/image (10)>)
 
 Figure 2.4 Court System Hierarchy
 
@@ -14,7 +14,7 @@ Figure 2.4 Court System Hierarchy
 * The losing party may appeal to the U.S. Circuit Court of Appeals. There are 13 circuit courts in the United States.
 * A party losing at the circuit court level may request that the U.S. Supreme Court hear the case; the Constitution requires the Supreme Court to hear only a limited set of appeals.
 
-![Map of federal district and appellate courts](<.gitbook/assets/image (11)>)
+![Map of federal district and appellate courts](<../../.gitbook/assets/image (11)>)
 
 Figure 2.5 Map of Federal Circuit Courts
 
@@ -32,7 +32,7 @@ Figure 2.5 Map of Federal Circuit Courts
 * The trial court’s role is fact-finding—determining who did what, when, why, and how. The fact finder (usually the jury) receives substantial deference on factual determinations.
 * Appeals are therefore limited to questions of law or legal errors. Because of the deference given to fact finders, appeals are often difficult to win.
 
-![Roles of trial and appellate courts](<.gitbook/assets/image (12)>)
+![Roles of trial and appellate courts](<../../.gitbook/assets/image (12)>)
 
 Figure 2.6 Roles of Trial and Appellate Courts
 

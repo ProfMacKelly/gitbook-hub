@@ -106,4 +106,4 @@ Except where otherwise noted, this page's content is adapted from:
 
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![CC BY NC SA badge](<.gitbook/assets/image (3)>)
+![CC BY NC SA badge](<../../../.gitbook/assets/image (3)>)

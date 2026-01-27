@@ -46,4 +46,4 @@ Attributions and Licensing (https://prof-mackelly.gitbook.io/business-law-i/disp
 
 Except where otherwise noted, this page's content is adapted from https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/ and https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/ in _Fundamentals of Business Law_ by Melissa Randall (2020), used under https://creativecommons.org/licenses/by-nc-sa/4.0/. This page is licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
-![CC BY NC SA badge](<.gitbook/assets/image (3)>)
+![CC BY NC SA badge](<../../.gitbook/assets/image (3)>)

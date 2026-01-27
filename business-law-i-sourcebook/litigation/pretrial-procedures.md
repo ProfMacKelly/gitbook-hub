@@ -1,6 +1,6 @@
 # Pretrial Procedures
 
-![Litigation timeline from the legal complaint through trial](<.gitbook/assets/image (6)>)
+![Litigation timeline from the legal complaint through trial](<../../.gitbook/assets/image (6)>)
 
 Figure 3.1 Litigation Flowchart
 
@@ -89,4 +89,4 @@ A party may submit an affidavit in support of any motion. An **affidavit** is a 
 Attributions and Licensing (https://prof-mackelly.gitbook.io/business-law-i/disputes-and-dispute-settlement/pretrial-procedures#attributions-and-licensing)
 
 Except where otherwise noted, this page's content is adapted from [3.6 Pretrial Procedures](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in _Fundamentals of Business Law_ by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).\
-![](<.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)

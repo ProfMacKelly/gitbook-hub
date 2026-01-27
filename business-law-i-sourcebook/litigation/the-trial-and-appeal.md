@@ -48,4 +48,4 @@ Original source reference on this site: [hashtag](the-trial-and-appeal.md#attrib
 
 </details>
 
-![CC BY NC SA badge](<.gitbook/assets/image (3)>)
+![CC BY NC SA badge](<../../.gitbook/assets/image (3)>)

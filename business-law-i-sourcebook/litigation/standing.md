@@ -12,4 +12,4 @@ The case also has to be brought by the right person. To show standing, a plainti
 
 Except where otherwise noted, this page's content is adapted from [Standing ↗](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in _Fundamentals of Business Law_ ↗ by Melissa Randall (2020), used under [CC BY-NC-SA 4.0 ↗](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0 ↗](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![](<.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)

@@ -40,6 +40,6 @@ Another potential problem arises in the composition of the jury. To provide a fa
 
 Except where otherwise noted, this page's content is adapted from [The Parties, Attorneys, and Juryarrow-up-right](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ arrow-up-right](https://pressbooks.pub/introductiontobusinesslaw/) by Melissa Randall (2020), used under [CC BY-NC-SA 4.0arrow-up-right](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0arrow-up-right](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![](<.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)
 
 </details>

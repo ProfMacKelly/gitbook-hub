@@ -59,7 +59,7 @@ Mutual mistake refers to something that is a mistake by both parties that relate
 
 Unilateral mistake occurs when only one party is laboring under a mistake. Mistake does not mean bad bargaining. Courts will not step in to save parties from bad bargaining absent evidence of undue influence or unconscionability. In general, parties cannot rescind the contract when unilateral mistakes occur except when the mistake makes the contract unconscionable, the error is apparent to the other party, or when significant mathematical errors occur.
 
-![](<.gitbook/assets/image (9)>)
+![](<../../.gitbook/assets/image (9)>)
 
 Figure 10.1 Types of Mistakes Affecting Contracts and Their Remedies
 
@@ -84,4 +84,4 @@ Attributions and Licensing
 
 This page is licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![](<.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)

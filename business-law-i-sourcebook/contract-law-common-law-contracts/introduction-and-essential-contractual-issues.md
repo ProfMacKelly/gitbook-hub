@@ -12,7 +12,7 @@ Modern capitalism, indeed, would not be possible without contract law, and contr
 
 #### [The Definition of Contract](introduction-and-essential-contractual-issues.md#the-definition-of-contract)
 
-Although businesses tend to use the terms “agreement” and “contract” interchangeably, as noted above, the terms have very different legal meanings. An **agreement** is a mutual understanding between two or more parties about their rights and duties toward each other, which involves the combination of an [offer and an acceptance of the offer](contract-law-part-i-common-law-contracts/contract-elements/).
+Although businesses tend to use the terms “agreement” and “contract” interchangeably, as noted above, the terms have very different legal meanings. An **agreement** is a mutual understanding between two or more parties about their rights and duties toward each other, which involves the combination of an [offer and an acceptance of the offer](contract-elements/).
 
 On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which **the law in some way recognizes as a duty**." Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for what purposes they are made.
 
@@ -40,8 +40,8 @@ Although contract law has many wrinkles and nuances, there are a few essential i
 
 * Did the parties create a valid contract?
   * There are a number of basic requirements necessary for a contract to be valid, including:
-    * Assent: (1) **mutual assent** (an agreement, which is the combination of an [offer and acceptance](contract-law-part-i-common-law-contracts/contract-elements/)) and (2) **real assent** (i.e., the agreement did not arise out of duress, undue influence, misrepresentation, mistake, or incapacity). (Also, even if both mutual and real assent exist, the contract also must be "[legal](affirmative-defenses-to-breach-claims.md#illegality)".)
-    * [Consideration](contract-law-part-i-common-law-contracts/contract-elements/#consideration).
+    * Assent: (1) **mutual assent** (an agreement, which is the combination of an [offer and acceptance](contract-elements/)) and (2) **real assent** (i.e., the agreement did not arise out of duress, undue influence, misrepresentation, mistake, or incapacity). (Also, even if both mutual and real assent exist, the contract also must be "[legal](affirmative-defenses-to-breach-claims.md#illegality)".)
+    * [Consideration](contract-elements/#consideration).
 * What does the contract mean?
 * Is the contract in the proper [form](affirmative-defenses-to-breach-claims.md#statute-of-frauds) to carry out this meaning?
   * Sometimes contracts need to be in writing (or evidenced by some writing), or they can’t be enforced. Sometimes it isn’t clear what the contract means, and a court has to figure that out.
@@ -68,8 +68,8 @@ We live in a world of contracts, which are the bread and butter of business tran
 Except where otherwise noted, this page's content is adapted from:
 
 * [Contractsarrow-up-right](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ arrow-up-right](https://pressbooks.pub/introductiontobusinesslaw/) by Melissa Randall (2020), used under [CC BY-NC-SA 4.0arrow-up-right](https://creativecommons.org/licenses/by-nc-sa/4.0/).\
-  ![](<.gitbook/assets/image (3)>)
+  ![](<../../.gitbook/assets/image (3)>)
 * [General Perspectives on Contractsarrow-up-right](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_ arrow-up-right](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0arrow-up-right](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 This page is licensed under [CC BY-NC-SA 4.0arrow-up-right](https://creativecommons.org/licenses/by-nc-sa/4.0/).\
-![](<.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)

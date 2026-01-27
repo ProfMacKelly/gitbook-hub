@@ -10,6 +10,6 @@ Venue is the proper geographic location of the court to hear a case because the 
 
 Except where otherwise noted, this page's content is adapted from [Venue](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in _Fundamentals of Business Law_ by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![](<.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)
 
 </details>
