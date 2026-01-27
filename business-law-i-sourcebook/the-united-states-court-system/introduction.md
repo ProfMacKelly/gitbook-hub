@@ -11,7 +11,7 @@ Under the Supreme Court’s _Citizens United_ decision, business entities enjoy 
 
 However, they can do so indirectly by lobbying Congress on laws that it considers and lobbying the president concerning enforcement priorities. While all states have a comparable three-branch system, in some states (not in Colorado), judges obtain office through partisan elections. In such states, businesses can seek to influence the judicial branch through supporting judges whose philosophy favors business generally or a particular industry. For these reasons, in choosing whether to litigate in state or federal court, businesses should consider that federal judges may be more likely to take politically unpopular actions.
 
-— John W., judge
+\~ John W., judge
 {% endhint %}
 
 <details>
@@ -20,6 +20,6 @@ However, they can do so indirectly by lobbying Congress on laws that it consider
 
 Except where otherwise noted, this page's content is adapted from [Introduction](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) in [_Fundamentals of Business Law_](https://pressbooks.pub/introductiontobusinesslaw/) by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![](<../.gitbook/assets/image (3)>)
+![](<../../.gitbook/assets/image (3)>)
 
 </details>
