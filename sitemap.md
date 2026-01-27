@@ -4,293 +4,50 @@ hidden: true
 
 # sitemap
 
-I can help convert that sitemap (and the pages it lists) into GitBook-optimized Markdown, but I can't fetch external URLs directly from here. If you can either (A) paste the sitemap XML or page HTML, or (B) allow me to fetch it by running a script on your machine and sending me results — I can produce the converted Markdown. Below are two practical options you can choose from.
+In order to hear a case, courts must have subject matter jurisdiction over the type of dispute and personal jurisdiction over the parties.&#x20;
 
-Option A — You paste content here
+### Subject Matter Jurisdiction
 
-* Paste the sitemap XML or the HTML of any pages you want converted.
-* I’ll return GitBook-optimized Markdown following your rules (tabs for package managers, steppers for long numbered steps, FAQs as expandables, remove navigation, etc).
+As discussed earlier, subject matter jurisdiction is the legal authority to hear and decide a case or controversy. The court must dismiss a case if it lacks either form of jurisdiction.
 
-Option B — Run the provided script locally to fetch and convert the sitemap and pages
+The vast majority of civil lawsuits are filed in state courts, including lawsuits involving state laws such as property, contracts, probate law, and torts. State laws also involve most criminal cases and domestic issues such as divorce and child custody. **Torts** are any civil wrong other than a breach of contract and include a variety of situations in which people and businesses suffer legal injury. Some states are friendlier toward torts than others, and the resulting patchwork of tort laws means that companies that do business across the nation need to know the different standards they are held to, based on the state their customers live in.
 
-* Run the script below on your machine. It:
-  * Downloads the sitemap XML,
-  * Fetches each page listed,
-  * Converts pages to Markdown,
-  * Applies the GitBook enhancements (tabs for npm/yarn/pnpm blocks, stepper conversion for long numbered steps, FAQ -> expandables),
-  * Saves per-page Markdown files you can import into GitBook.
+Given the wide array of subject areas regulated by state law, most businesses deal with state courts. Federal court subject matter jurisdiction is generally limited to **federal question jurisdiction**. In other words, federal courts hear cases involving the Constitution or a federal law. Cases involving the interpretation of treaties to which the United States is a party are also subject to federal court jurisdiction. Finally, lawsuits between states can be filed directly in the U.S. Supreme Court.
 
-Save this Python script as convert\_sitemap\_to\_gitbook.py and run it with Python 3.9+.
+Sometimes, a federal court may hear a case involving state law. These cases are called **diversity jurisdiction cases**, and they arise when all plaintiffs in a civil case are from different states than all defendants, and the amount claimed by the plaintiffs exceeds seventy-five thousand dollars. For example, a citizen of New Jersey may sue a citizen of New York over a contract dispute in federal court. But if both were citizens of New York, the plaintiff would be limited to the state court of New York. Diversity jurisdiction cases allow one party who feels it may not receive a fair trial where its opponent has a “home court advantage” to seek a neutral forum to try the case.
 
-Python script (self-contained):
+| Type of Jurisdiction     | Description                                                                    | Minimum Dollar Requirement | Applicable Law |
+| ------------------------ | ------------------------------------------------------------------------------ | -------------------------- | -------------- |
+| Federal Question         | Cases involving the U.S. Constitution, treaties, or federal laws & regulations | None                       | Federal law    |
+| Diversity of Citizenship | Cases brought between citizens of different states                             | $75,000                    | State law      |
 
-* Requires pip installs: requests, beautifulsoup4, markdownify, lxml
-* The script is conservative (doesn’t add content). It tries to implement your rules automatically but outputs logs so you can review and tweak.
+***
 
-Script:
+### **Personal Jurisdiction**&#x20;
 
-````python
-#!/usr/bin/env python3
-"""
-convert_sitemap_to_gitbook.py
+**Personal jurisdiction** is the power of the court to compel the parties to appear in court. Personal jurisdiction requires litigants to have some form of minimum contacts with the state where the case is filed. Personal jurisdiction seeks to avoid inconvenient litigation, even if the case has merit.
 
-Usage:
-    pip install requests beautifulsoup4 markdownify lxml
-    python convert_sitemap_to_gitbook.py https://prof-mackelly.gitbook.io/business-law-i/sitemap-pages.xml output_dir
+A court obtains personal jurisdiction over the plaintiff when the plaintiff files a lawsuit. The court obtains personal jurisdiction over a defendant when he or she is served with process or waives service.
 
-What it does:
-- Downloads sitemap XML
-- Fetches each URL in the sitemap
-- Converts HTML to Markdown (using markdownify)
-- Applies GitBook-specific transformations:
-  - Removes common navigation blocks by pruning header/footer if found
-  - Detects code blocks preceded by a line listing npm / yarn / pnpm and turns into {% tabs %} with one tab per package manager
-  - Converts long numbered steps (1., 2., 3.) with large content into a {% stepper %} block
-  - Turns "FAQ" sections (heading "FAQ", "Frequently Asked Questions", or headings with Q/A patterns) into <details> expandables
-- Writes per-page markdown files to output_dir
-"""
-import os
-import re
-import sys
-import requests
-from bs4 import BeautifulSoup, Tag
-from markdownify import markdownify as md
+Obtaining personal jurisdiction over the defendant requires some connection between the defendant and the state where the court is located. Businesses that incorporate, have a physical location, or do business in a state create personal jurisdiction through their actions within the state. Owning property in a state also creates personal jurisdiction.
 
-if len(sys.argv) != 3:
-    print("Usage: python convert_sitemap_to_gitbook.py <sitemap_url> <output_dir>")
-    sys.exit(1)
+Personal jurisdiction, like standing, is a constitutional requirement. Most states have **long-arm statutes** that set forth the procedure by which out-of-state defendants can be required to appear before a court. The statutes provide for how **service of process** occurs.&#x20;
 
-SITEMAP_URL = sys.argv[1]
-OUT_DIR = sys.argv[2]
-os.makedirs(OUT_DIR, exist_ok=True)
+**Service of process** is the process by which a defendant is notified that it is being sued. Service of process typically requires a copy of the notice to appear before a court to be personally delivered to the defendant or the defendant’s agent. In the case of businesses, service of process is usually delivering a copy of the notice to appear to their registered agent. Service can be more challenging with individuals.
 
-session = requests.Session()
-session.headers.update({"User-Agent": "sitemap-to-gitbook/1.0"})
+| Basis of Personal Jurisdiction | Description                                                                                                                                                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Consent                        | <ul><li>A business or individual agrees to the jurisdiction of the court</li></ul>                                                                                                              |
+| Residence                      | <ul><li>A business or individual resides in the state</li></ul>                                                                                                                                 |
+| Service of Process             | <ul><li>The defendant is served a summons and complaint within the state</li></ul>                                                                                                              |
+| Long-arm Statute               | <ul><li>A resident business or individual was involved in an incident in another state; or</li><li>A non-resident business or individual was involved in an incident within the state</li></ul> |
 
-def fetch(url):
-    print("Fetching:", url)
-    r = session.get(url, timeout=30)
-    r.raise_for_status()
-    return r.text
+***
 
-def parse_sitemap(xml_text):
-    soup = BeautifulSoup(xml_text, "lxml-xml")
-    locs = [loc.get_text().strip() for loc in soup.find_all("loc")]
-    return locs
+<details>
 
-def prune_navigation(soup):
-    # Remove common nav/footer elements heuristically
-    for sel in ['nav', 'header', 'footer', '.site-header', '.site-footer', '#header', '#footer', '.navigation', '.topbar']:
-        for el in soup.select(sel):
-            el.decompose()
-    return soup
+<summary>Attributions and Licensing</summary>
 
-def html_to_markdown(html):
-    # convert to markdown using markdownify with some control
-    return md(html, heading_style="ATX")
+Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) and [Subject Matter and Personal Jurisdiction](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src=".gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
-def detect_package_manager_tabs(md_text):
-    # find patterns: a small list like "npm, yarn, pnpm" followed by code block (fenced)
-    # or lines that mention these names followed by code fences.
-    # We'll create a {% tabs %}... {% endtabs %} block replacing the set.
-    pm_names = ["npm", "yarn", "pnpm"]
-    pattern = re.compile(
-        r"(?P<prefix>(?:.*(?:npm|yarn|pnpm).*\n){1,2})\s*(```(?:[\s\S]*?)```)",
-        flags=re.IGNORECASE
-    )
-    def repl(m):
-        prefix = m.group("prefix").strip()
-        codeblock = m.group(2)
-        # find which managers are mentioned in prefix
-        found = [pm for pm in pm_names if re.search(r'\b' + re.escape(pm) + r'\b', prefix, re.I)]
-        if not found:
-            return m.group(0)
-        # extract fenced block content and language
-        cb_match = re.match(r"```(\w+)?\n([\s\S]*?)\n```", codeblock)
-        lang = cb_match.group(1) if cb_match else ""
-        content = cb_match.group(2) if cb_match else codeblock
-        # split content by lines if it's multiple commands separated by newlines; try to map to each manager by line index
-        lines = [l for l in content.strip().splitlines() if l.strip() != ""]
-        # If same number of lines as managers, map each. Otherwise duplicate content into each tab.
-        tab_blocks = []
-        if len(lines) == len(found):
-            for pm, line in zip(found, lines):
-                tab_blocks.append((pm, f"```{lang}\n{line}\n```"))
-        else:
-            for pm in found:
-                tab_blocks.append((pm, f"```{lang}\n{content}\n```"))
-        tabs = ["{% tabs %}"]
-        for pm, block in tab_blocks:
-            tabs.append(f"{{% tab title=\"{pm}\" %}}\n{block}\n{{% endtab %}}")
-        tabs.append("{% endtabs %}")
-        return "\n\n".join(tabs)
-    new_md = pattern.sub(repl, md_text)
-    return new_md
-
-def detect_numbered_steps(md_text):
-    # Detect long numbered lists where each item has at least a paragraph or multiple lines.
-    # Convert to {% stepper %} with {% step %} sections.
-    # Find blocks starting with "1. " followed by "2. " etc.
-    list_pattern = re.compile(r"(^|\n)((?:\d+\.\s[^\n]+(?:\n(?:\s{2,}.*|\s*[^0-9]\S.*))+\n?)+)", flags=re.M)
-    def to_stepper(m):
-        block = m.group(2).strip('\n')
-        # split items
-        items = re.split(r"\n\d+\.\s+", "\n" + block)
-        items = [it.strip() for it in items if it.strip()]
-        # only convert if there are multiple items and at least one has multiple lines
-        multi = any("\n" in it for it in items)
-        if len(items) < 2 or not multi:
-            return m.group(0)
-        parts = ["{% stepper %}"]
-        for it in items:
-            # try to use first line as a step title if short
-            first_line = it.splitlines()[0]
-            title = first_line if len(first_line) < 80 else ""
-            if title:
-                body = it[len(first_line):].strip()
-                parts.append("{% step %}\n## " + title + "\n\n" + body + "\n{% endstep %}")
-            else:
-                parts.append("{% step %}\n" + it + "\n{% endstep %}")
-        parts.append("{% endstepper %}")
-        return "\n\n".join(parts)
-    new = list_pattern.sub(to_stepper, md_text)
-    return new
-
-def detect_faq_expandables(md_text):
-    # Convert sections under headings named FAQ or Frequently Asked Questions into details blocks
-    # Also convert Q: / A: patterns into <details>
-    lines = md_text.splitlines()
-    out = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        if re.match(r"^#+\s*(FAQ|Frequently Asked Questions)\s*$", line, re.I):
-            # take until next same-or-higher heading
-            level = line.count('#')
-            i += 1
-            block = []
-            while i < len(lines) and not re.match(rf"^#{{1,{level}}}\s+", lines[i]):
-                block.append(lines[i])
-                i += 1
-            # convert Q/A pairs in block
-            faq_text = "\n".join(block).strip()
-            # find Q/A pairs like "Q: ...\nA: ..." or headings for questions
-            qa_pairs = []
-            # method 1: headings as questions
-            soup_like = faq_text.splitlines()
-            j = 0
-            while j < len(soup_like):
-                l = soup_like[j]
-                h = re.match(r"^#+\s*(.+)", l)
-                if h:
-                    q = h.group(1).strip()
-                    j += 1
-                    ans_lines = []
-                    while j < len(soup_like) and not re.match(r"^#+\s*", soup_like[j]):
-                        ans_lines.append(soup_like[j])
-                        j += 1
-                    qa_pairs.append((q, "\n".join(ans_lines).strip()))
-                else:
-                    # method 2: Q: / A:
-                    mQ = re.match(r"^\s*(?:Q:|Question:)\s*(.+)", l, re.I)
-                    if mQ:
-                        q = mQ.group(1).strip()
-                        j += 1
-                        ans_lines = []
-                        while j < len(soup_like) and not re.match(r"^\s*(?:Q:|Question:)", soup_like[j], re.I):
-                            ma = re.match(r"^\s*(?:A:|Answer:)\s*(.+)", soup_like[j], re.I)
-                            if ma:
-                                ans_lines.append(ma.group(1))
-                            else:
-                                ans_lines.append(soup_like[j])
-                            j += 1
-                        qa_pairs.append((q, "\n".join(ans_lines).strip()))
-                    else:
-                        j += 1
-            if qa_pairs:
-                out.append(line)  # keep the FAQ heading
-                for q,a in qa_pairs:
-                    out.append(f"<details>\n<summary>{q}</summary>\n\n{a}\n\n</details>")
-            else:
-                out.append(line)
-                out.extend(block)
-        else:
-            out.append(line)
-            i += 1
-    return "\n".join(out)
-
-def sanitize_filename(url):
-    # create a safe filename from URL
-    from urllib.parse import urlparse, unquote
-    p = urlparse(url)
-    path = unquote(p.path).strip("/")
-    if not path:
-        path = "index"
-    fname = path.replace("/", "_")
-    # include netloc for uniqueness if needed
-    fname = f"{p.netloc}__{fname}.md"
-    fname = re.sub(r"[^A-Za-z0-9._-]", "_", fname)
-    return fname
-
-def process_page(url):
-    html = fetch(url)
-    soup = BeautifulSoup(html, "lxml")
-    soup = prune_navigation(soup)
-
-    # Optionally try to extract main article/content
-    main = None
-    for sel in ['main', 'article', '#content', '.content', '.main']:
-        el = soup.select_one(sel)
-        if el:
-            main = el
-            break
-    if main is None:
-        # fallback to body
-        main = soup.body or soup
-
-    # remove scripts and styles
-    for tag in main.select('script, style, noscript'):
-        tag.decompose()
-
-    html_fragment = str(main)
-    md_text = html_to_markdown(html_fragment)
-
-    # Apply GitBook transformations
-    md_text = detect_package_manager_tabs(md_text)
-    md_text = detect_numbered_steps(md_text)
-    md_text = detect_faq_expandables(md_text)
-
-    return md_text
-
-def main():
-    sitemap_xml = fetch(SITEMAP_URL)
-    urls = parse_sitemap(sitemap_xml)
-    print(f"Found {len(urls)} URLs in sitemap")
-    for url in urls:
-        try:
-            md_text = process_page(url)
-            fname = sanitize_filename(url)
-            out_path = os.path.join(OUT_DIR, fname)
-            with open(out_path, "w", encoding="utf-8") as f:
-                f.write(md_text)
-            print("Wrote:", out_path)
-        except Exception as e:
-            print("Error processing", url, e)
-
-if __name__ == "__main__":
-    main()
-````
-
-Notes and limitations
-
-* The script is heuristic-based. It won't be perfect for every page:
-  * It tries to prune header/footer by common class/element names but may miss or remove content incorrectly in some sites — always review outputs.
-  * The stepper detection looks for long numbered lists with multiline items; short inline enumerations are left intact.
-  * Package manager tabs detection searches for small lists mentioning npm/yarn/pnpm followed by a code fence; it may need adjustment for different formatting.
-  *   FAQ detection looks for an "FAQ" heading or Q:/A: patterns and converts to&#x20;
-
-      blocks.
-* After running, review each Markdown file for correctness and small edits before importing into GitBook.
-* If you want, I can adjust the script to be stricter/looser for your site after you try it once and show me sample output.
-
-If you prefer, paste the sitemap XML or a few example page HTMLs here and I will convert them into ready-to-import GitBook Markdown following the rules. Which option do you want to proceed with?
+</details>
