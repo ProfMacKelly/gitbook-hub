@@ -4,10 +4,50 @@ hidden: true
 
 # sitemap pages
 
-<table data-view="cards"><thead><tr><th>Title</th><th data-card-target data-type="content-ref">Page</th></tr></thead><tbody><tr><td>Business Law I (root)</td><td></td></tr><tr><td>Front Matter</td><td><a href="/broken/pages/9b04a372078f236f92106feda9b7b42e8e075de2">Broken link</a></td></tr><tr><td>Introduction to American Law and the Legal System (section)</td><td><a href="/broken/pages/a5da7cd1eb96aa747c8c054b44b5df39574403d8">Broken link</a></td></tr><tr><td>1.1 The Relationship Between Business and Law</td><td><a href="/broken/pages/de7efdba6112fb10fa15eaf2e45c6bf51520b4a2">Broken link</a></td></tr><tr><td>2.2 Law and Its Functions</td><td><a href="/broken/pages/750657eda4f001a1bc923ae9aef636bad6b28808">Broken link</a></td></tr><tr><td>2.3 Modern Legal Systems of the World</td><td><a href="/broken/pages/9c693bb17e6207e4ded1a9868d62c5f033f447ca">Broken link</a></td></tr><tr><td>Sources of Law</td><td><a href="/broken/pages/e9c734d2178d991cb42c3287a40d409e47e8c34f">Broken link</a></td></tr><tr><td>Important Business Laws and Regulations</td><td><a href="/broken/pages/b6eba5099efc4f9291d36f098604e55666a4d0ab">Broken link</a></td></tr><tr><td>Assessment Questions (Introduction section)</td><td><a href="/broken/pages/a909b47720ae79b7a655eb22139d4c7da7224ce8">Broken link</a></td></tr><tr><td>Endnotes — Introduction to American Law and the Legal System</td><td><a href="/broken/pages/186bbe6d682083f68cfcf2ec0b1e49fd602109a3">Broken link</a></td></tr><tr><td>The United States Court System (section)</td><td><a href="/broken/pages/85671fc56bb46dd7e8016dc7ac93d5430f8efcd1">Broken link</a></td></tr><tr><td>Introduction (Court System)</td><td><a href="/broken/pages/3015fd6eeb93c42d719531c4b129a0521e59a4c3">Broken link</a></td></tr><tr><td>Separation of Powers</td><td><a href="/broken/pages/c535696219f7925051202df212b9cbe14df8463d">Broken link</a></td></tr><tr><td>Federalism</td><td><a href="/broken/pages/9862399a72bcd8ab0ee08da905a90a7f5cd613aa">Broken link</a></td></tr><tr><td>Trial and Appellate Courts</td><td><a href="/broken/pages/e8ef5ebed6e57c4cdcb76d0e2b54ca42a99aa4d8">Broken link</a></td></tr><tr><td>Disputes and Dispute Settlement (section)</td><td><a href="/broken/pages/1d504cd7da1b11e077830a6222875c330ed39fbd">Broken link</a></td></tr><tr><td>Introduction (Disputes)</td><td><a href="/broken/pages/5806fe06a00d10b155d375fcbda84edc4e368c8e">Broken link</a></td></tr><tr><td>The Parties, Attorneys, and Jury</td><td><a href="/broken/pages/1e00a3d86b51214173f23411ae1af0186902071c">Broken link</a></td></tr><tr><td>Standing</td><td><a href="/broken/pages/a61dbb1baab7db3c0dcd521913ff32f11535d5ab">Broken link</a></td></tr><tr><td>Subject Matter and Personal Jurisdiction</td><td><a href="/broken/pages/b9b6a541353195e55a8808ea7cabd2ca283bd283">Broken link</a></td></tr><tr><td>Venue</td><td><a href="/broken/pages/f7e8e7433a79d1d1ab2b1def4d400508666ce81b">Broken link</a></td></tr><tr><td>Pretrial Procedures</td><td><a href="/broken/pages/71eed6aff12c4243034cbfe64e86dcc41dca87e2">Broken link</a></td></tr><tr><td>The Trial and Appeal</td><td><a href="/broken/pages/c5cddd5f64a0533f5e79069aeb2c8014cc04244d">Broken link</a></td></tr><tr><td>Contract Law — Part I: Common-Law Contracts (section)</td><td><a href="/broken/pages/5d0a0d9b28b5ed8664058b8069f26e65718769df">Broken link</a></td></tr><tr><td>Introduction and Essential Contractual Issues</td><td><a href="/broken/pages/a97ad309f1afff53e777b3b5754d9eedfeaacd4d">Broken link</a></td></tr><tr><td>Contract Elements (section)</td><td><a href="/broken/pages/db18e39857a12b813712479adaacedb23f198176">Broken link</a></td></tr><tr><td>Contract Elements — Introduction and Terminology</td><td><a href="/broken/pages/254cabb4a3da5438279216e007b99965985e3972">Broken link</a></td></tr><tr><td>The Offer</td><td><a href="/broken/pages/f6d0c98e3f07ef31333d5f8650c336db5b50007a">Broken link</a></td></tr><tr><td>Contract Classifications</td><td><a href="/broken/pages/8d7e8e96b12c4f926b7cf142e662e751f10f5f05">Broken link</a></td></tr><tr><td>Affirmative Defenses to Breach Claims</td><td><a href="/broken/pages/24045245bf4e1ea066a4da1779e43de961e47c0b">Broken link</a></td></tr></tbody></table>
+In order to hear a case, courts must have subject matter jurisdiction over the type of dispute and personal jurisdiction over the parties.&#x20;
 
-Notes:
+### Subject Matter Jurisdiction
 
-* I preserved each original URL exactly as provided.
-* I removed navigation UI text and condensed the list into clickable cards for GitBook.
-* If you want these organized into sections with stepper-style walkthroughs, or converted into a hierarchical sidebar, tell me how you want them grouped and I’ll transform accordingly.
+As discussed earlier, subject matter jurisdiction is the legal authority to hear and decide a case or controversy. The court must dismiss a case if it lacks either form of jurisdiction.
+
+The vast majority of civil lawsuits are filed in state courts, including lawsuits involving state laws such as property, contracts, probate law, and torts. State laws also involve most criminal cases and domestic issues such as divorce and child custody. **Torts** are any civil wrong other than a breach of contract and include a variety of situations in which people and businesses suffer legal injury. Some states are friendlier toward torts than others, and the resulting patchwork of tort laws means that companies that do business across the nation need to know the different standards they are held to, based on the state their customers live in.
+
+Given the wide array of subject areas regulated by state law, most businesses deal with state courts. Federal court subject matter jurisdiction is generally limited to **federal question jurisdiction**. In other words, federal courts hear cases involving the Constitution or a federal law. Cases involving the interpretation of treaties to which the United States is a party are also subject to federal court jurisdiction. Finally, lawsuits between states can be filed directly in the U.S. Supreme Court.
+
+Sometimes, a federal court may hear a case involving state law. These cases are called **diversity jurisdiction cases**, and they arise when all plaintiffs in a civil case are from different states than all defendants, and the amount claimed by the plaintiffs exceeds seventy-five thousand dollars. For example, a citizen of New Jersey may sue a citizen of New York over a contract dispute in federal court. But if both were citizens of New York, the plaintiff would be limited to the state court of New York. Diversity jurisdiction cases allow one party who feels it may not receive a fair trial where its opponent has a “home court advantage” to seek a neutral forum to try the case.
+
+| Type of Jurisdiction     | Description                                                                    | Minimum Dollar Requirement | Applicable Law |
+| ------------------------ | ------------------------------------------------------------------------------ | -------------------------- | -------------- |
+| Federal Question         | Cases involving the U.S. Constitution, treaties, or federal laws & regulations | None                       | Federal law    |
+| Diversity of Citizenship | Cases brought between citizens of different states                             | $75,000                    | State law      |
+
+***
+
+### **Personal Jurisdiction**&#x20;
+
+**Personal jurisdiction** is the power of the court to compel the parties to appear in court. Personal jurisdiction requires litigants to have some form of minimum contacts with the state where the case is filed. Personal jurisdiction seeks to avoid inconvenient litigation, even if the case has merit.
+
+A court obtains personal jurisdiction over the plaintiff when the plaintiff files a lawsuit. The court obtains personal jurisdiction over a defendant when he or she is served with process or waives service.
+
+Obtaining personal jurisdiction over the defendant requires some connection between the defendant and the state where the court is located. Businesses that incorporate, have a physical location, or do business in a state create personal jurisdiction through their actions within the state. Owning property in a state also creates personal jurisdiction.
+
+Personal jurisdiction, like standing, is a constitutional requirement. Most states have **long-arm statutes** that set forth the procedure by which out-of-state defendants can be required to appear before a court. The statutes provide for how **service of process** occurs.&#x20;
+
+**Service of process** is the process by which a defendant is notified that it is being sued. Service of process typically requires a copy of the notice to appear before a court to be personally delivered to the defendant or the defendant’s agent. In the case of businesses, service of process is usually delivering a copy of the notice to appear to their registered agent. Service can be more challenging with individuals.
+
+| Basis of Personal Jurisdiction | Description                                                                                                                                                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Consent                        | <ul><li>A business or individual agrees to the jurisdiction of the court</li></ul>                                                                                                              |
+| Residence                      | <ul><li>A business or individual resides in the state</li></ul>                                                                                                                                 |
+| Service of Process             | <ul><li>The defendant is served a summons and complaint within the state</li></ul>                                                                                                              |
+| Long-arm Statute               | <ul><li>A resident business or individual was involved in an incident in another state; or</li><li>A non-resident business or individual was involved in an incident within the state</li></ul> |
+
+***
+
+<details>
+
+<summary>Attributions and Licensing</summary>
+
+Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) and [Subject Matter and Personal Jurisdiction](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src=".gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+
+</details>
