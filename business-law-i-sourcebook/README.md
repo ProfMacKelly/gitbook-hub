@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Business Law I Sourcebook
 
 🏗️ This book is under construction. 🚧
