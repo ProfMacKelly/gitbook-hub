@@ -21,8 +21,6 @@
       * [1.2.3 Examples: Case & Case Brief (with Explanatory Annotations)](bioethics-and-the-law-sourcebook/unit-1.-introduction/1.2-case-law-introduction-to-reading-and-studying-cases/1.2.3-examples-case-and-case-brief-with-explanatory-annotations/README.md)
         * [1.2.3.2 Case Brief: Florida v. Jardines (Annotated)](bioethics-and-the-law-sourcebook/unit-1.-introduction/1.2-case-law-introduction-to-reading-and-studying-cases/1.2.3-examples-case-and-case-brief-with-explanatory-annotations/1.2.3.2-case-brief-florida-v.-jardines-annotated.md)
         * [1.2.3.1 Case: Florida v. Jardines (Annotated)](bioethics-and-the-law-sourcebook/unit-1.-introduction/1.2-case-law-introduction-to-reading-and-studying-cases/1.2.3-examples-case-and-case-brief-with-explanatory-annotations/1.2.3.1-case-florida-v.-jardines-annotated.md)
-* [sitemap](sitemap.md)
-* [sitemap pages](sitemap-pages.md)
 * [Business Law I Sourcebook](business-law-i-sourcebook/README.md)
   * [Front Matter](business-law-i-sourcebook/front-matter.md)
   * [Introduction to the Law & Legal Systems](business-law-i-sourcebook/introduction-to-the-law-and-legal-systems/README.md)
