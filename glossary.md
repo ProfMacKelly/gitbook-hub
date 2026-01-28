@@ -288,6 +288,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 ***
 
+#### negligence per se
+
+"negligence in itself"; in a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### omission
 
 failure to act
@@ -435,6 +443,12 @@ the party against whom a petition is filed (i.e., the party opposing the [petiti
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
+
+#### Restatement(s) of the Law
+
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 #### rule of law
 
