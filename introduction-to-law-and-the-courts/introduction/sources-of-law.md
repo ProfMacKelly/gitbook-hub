@@ -3,11 +3,17 @@
 In the United States, our laws come primarily from:
 
 * Federal and state constitutions;
+* Treaties and conventions;
 * Statutory law from Congress, the state legislatures, and local legislative bodies;
 * Common law from federal and state appellate courts;
-* Administrative law (rules and regulations) from government agencies;
-* Treaties and conventions; and
+* Administrative law (rules and regulations) from government agencies; and
 * Executive orders.
+
+{% embed url="https://youtu.be/y-rAjwNhp_8" %}
+[_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)[ ](https://youtu.be/wNlilK7uuT4)_by_ [_LawShelf_](https://www.youtube.com/@LawShelf)_._ (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
+{% endembed %}
+
+{% @lucid/lucid-component url="https://lucid.app/lucidchart/8d71d2f6-172b-4195-ad3a-3fa3430823e2/edit?invitationId=inv_dcc9271a-4a09-4064-ba46-e4af4df188b8&viewport_loc=415,-499,1737,805,0_0" %}
 
 ## Constitutions
 
@@ -128,19 +134,6 @@ The common law still plays an important role in criminal lawmaking, even though 
 
 In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
 {% endhint %}
-
-***
-
-_**Table** Hierarchy of Sources of Law_
-
-| **Priority** | **Source**               | **Comment**                                                                                                         |
-| ------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| 1            | Constitutions            | Exist at both federal and state levels                                                                              |
-| 2 (tie)      | Statutes                 | Laws passed by the federal or state legislatures                                                                    |
-| 2 (tie)      | Treaties and Conventions | International agreements that have the same standing as statutes                                                    |
-| 4            | Judicial Opinions        | Court interpretation and application of constitutions, statutes, treaties, agency regulations, and executive orders |
-| 5            | Agency Regulations       | Rules and regulations adopted by administrative agencies at the federal, state, or local level                      |
-| 6            | Executive Orders         | Guidance from the president or governor to executive branch officials about how to perform their duty               |
 
 ***
 
