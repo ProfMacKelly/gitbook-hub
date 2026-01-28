@@ -7,11 +7,11 @@ In the United States, our laws come primarily from:
 * Common law from federal and state appellate courts;
 * Administrative law (rules and regulations) from government agencies;
 * Treaties and conventions; and
-*   Executive orders.
+* Executive orders.
 
-    \## Constitutions
+## Constitutions
 
-#### **Federal/National**
+### **Federal/National**
 
 The most fundamental law in the [United States is the U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
 
@@ -25,7 +25,7 @@ The first ten amendments to the Constitution are known as the **Bill of Rights**
 
 ![Separation of powers of the federal government. (CC BY 4.0; Source)](https://biz.libretexts.org/@api/deki/files/55867/clipboard_ef4a656e31cde25b873c1dd90ee34c08f.png?revision=1)
 
-#### **State**
+### **State**
 
 In the United States, each state also has its own constitution, which serves essentially the same function for the state government as the U.S. Constitution serves for the federal government. Specifically, state constitutions establish limits of state government power, establish the organization and duties of the different branches of government at the state level, and protect fundamental rights of state citizens.
 
@@ -43,7 +43,7 @@ This dual system of government in the United States is called **federalism**, wh
 Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the U.S. Constitution guarantees each individual the right to speak freely. On the other hand, if Cora walks into a Macy’s department store and criticizes the owner of Macy’s, Macy’s could eject Cora immediately. Macy’s and its personnel are _private_, not government, and they _do not_ have to abide by the Constitution.
 {% endhint %}
 
-\### Exceptions to Constitutional Protections
+### Exceptions to Constitutional Protections
 
 The federal and state constitutions are both written with words that can be subject to more than one interpretation. Thus, there are many _exceptions_ to any constitution’s protections.
 
@@ -51,9 +51,15 @@ For safety and security reasons, we see more exceptions to constitutional protec
 
 For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
-#### Supremacy of the U.S. Constitution
+### Supremacy of the U.S. Constitution
 
 Of all sources of law in the United States, the U.S. Constitution is considered the _highest_ and should not be supplanted by either of the other two sources of law. Pursuant to principles of federal supremacy, the U.S. Constitution is the most preeminent source of law, and state constitutions cannot supersede it.
+
+## Treaties and Conventions
+
+A **treaty** is a binding agreement between two nations. A **convention** is a binding agreement among a group of nations. In the U.S., a treaty or convention is generally negotiated by the executive branch. To be binding, the U.S. Constitution requires the Senate to ratify treaties by a two-thirds vote. Once ratified, a treaty becomes part of federal law with the same weight and effect as a statute passed by the entire Congress. Therefore, treaties and conventions have equal standing as statutes in U.S. law.
+
+## Law From the Legislative Branch
 
 ### Statutes
 
@@ -67,9 +73,11 @@ Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1
 The intent of the **Model Penal Code** was to provide a standardized set of criminal statutes that all states could adopt, thus simplifying the diversity effect of the United States legal system. While the Model Penal Code has not been universally adopted, a majority of the states have incorporated portions of it into their penal codes, and the Model Penal Code survives as a guideline and focal point for discussion when state legislatures modify their criminal statutes.
 {% endhint %}
 
-\## **Ordinances**
+### **Ordinances**
 
 Ordinances are similar to statutes, except that _cities_ and _counties_ vote them into law, rather than a state’s legislature or a state’s citizens. Ordinances usually relate to health, safety, or welfare, and violations of them are typically classified as **infractions** or **misdemeanors**, rather than **felonies**. A written law prohibiting jaywalking within a city’s or county’s limits is an example of an ordinance.
+
+## Law From The Executive Branch
 
 ### Administrative Rules and Regulations
 
@@ -77,13 +85,25 @@ Other written and published laws that apply to individuals are **administrative 
 
 Administrative laws are enacted by **administrative agencies**, which are governmental agencies designed to regulate specific areas. Administrative agencies can be federal or state and contain not only a legislative branch but also an executive (enforcement) branch and a judicial (court) branch. The Food and Drug Administration (FDA) is an example of a federal administrative agency. The FDA regulates any food products or drugs produced and marketed in the United States.
 
-#### Executive Orders
+### Executive Orders
 
 **Executive orders** are another type of administrative law. [Article II, Section 1](https://constitution.congress.gov/constitution/article-2/) of the U.S. Constitution gives the president the power to “take care that the laws be faithfully executed.” Under this power, the president may issue **executive orders** requiring officials in the executive branch to perform their duties in a particular manner. State governors have the same authority under state constitutions. Although they are not laws that apply directly to individuals and businesses, executive orders are important legal documents because they direct the government’s enforcement efforts.
 
-### Common Law (aka Case Law)
+## Law From the Judicial Branch
 
-Binding legal principles also come from the courts. When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.
+### Judicial Review
+
+Generally, if there is a statute on an issue, the statute is _superior_ to case law, just as the Constitution is superior to statutory law. However, judges _interpret_ constitutional and statutory law, making case law a _powerful_ source of law. A judge can interpret a constitution in a way that adds or creates exceptions to its protections. A judge can also interpret a statute in a way that makes it unconstitutional and unenforceable. This is called the power of **judicial review**. [_Marbury v. Madison_](https://scholar.google.com/scholar_case?case=9834052745083343188\&q=Marbury+v.+Madison,+5+U.S.+\(1+Cranch\)+137\&hl=en\&as_sdt=1000003), 5 U.S. (1 Cranch) 137 (1803).
+
+{% hint style="info" %}
+**Example of Judicial Review**
+
+An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the U.S. Constitution but also _changes_ the U.S. Constitution by adding flag burning to the First Amendment’s protection of speech.
+{% endhint %}
+
+### Common Law
+
+Binding legal principles also come from the courts. The accumulation of these court-established legal principles is referred to as the **common law** (also known as case law). When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.
 
 #### Rules of _Stare Decisis_ and Use of Precedent
 
@@ -95,7 +115,7 @@ Case precedent is generally an _appeal_ rather than a _trial_. There is often mo
 Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder. Brandon, the prosecuting attorney, finds case precedent from the New Mexico Supreme Cour&#x74;_,_ dated 2008, indicating that a first-degree murder prosecution is appropriate. The trial court will probably follow the precedent submitted by Brandon because it is newer, from a higher court, and from the same court system as the trial.
 {% endhint %}
 
-\### Common Law in the Criminal Context
+#### Common Law in the Criminal Context
 
 In modern society, a general rule is that judges _cannot_ create crimes. To do so would violate notions of fairness. Making up a new crime and punishing the defendant for it does not provide consistency or predictability to our legal system. It also violates the principle of legality, a core concept of American criminal justice embodied in this phrase: “_Nullum crimen sine lege, nulla poena sine crimen_” (No crime without law, no punishment without crime).
 
@@ -108,20 +128,6 @@ The common law still plays an important role in criminal lawmaking, even though 
 
 In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
 {% endhint %}
-
-\### Powerful Nature of Case Law
-
-Generally, if there is a statute on an issue, the statute is _superior_ to case law, just as the Constitution is superior to statutory law. However, judges _interpret_ constitutional and statutory law, making case law a _powerful_ source of law. A judge can interpret a constitution in a way that adds or creates exceptions to its protections. A judge can also interpret a statute in a way that makes it unconstitutional and unenforceable. This is called the power of **judicial review**. [_Marbury v. Madison_](https://scholar.google.com/scholar_case?case=9834052745083343188\&q=Marbury+v.+Madison,+5+U.S.+\(1+Cranch\)+137\&hl=en\&as_sdt=1000003), 5 U.S. (1 Cranch) 137 (1803).
-
-{% hint style="info" %}
-**Example of Judicial Review**
-
-An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the U.S. Constitution but also _changes_ the U.S. Constitution by adding flag burning to the First Amendment’s protection of speech.
-{% endhint %}
-
-### Treaties and Conventions
-
-A **treaty** is a binding agreement between two nations. A **convention** is a binding agreement among a group of nations. In the U.S., a treaty or convention is generally negotiated by the executive branch. To be binding, the U.S. Constitution requires the Senate to ratify treaties by a two-thirds vote. Once ratified, a treaty becomes part of federal law with the same weight and effect as a statute passed by the entire Congress. Therefore, treaties and conventions have equal standing as statutes in U.S. law.
 
 ***
 
