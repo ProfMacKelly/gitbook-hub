@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # README (1)
 
 ## What is this Sourcebook?

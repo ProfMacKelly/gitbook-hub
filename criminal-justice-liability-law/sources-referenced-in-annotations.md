@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # sources referenced in annotations
 
 The following source materials are referenced in this sourcebook's in-text annotations but are not readily detected through keyword searches via the sourcebook's search bar.
