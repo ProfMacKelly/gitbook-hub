@@ -58,4 +58,4 @@ This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero
 
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
 
-[^2]: See the Front Matter for more information.
+[^2]: See "open license."
