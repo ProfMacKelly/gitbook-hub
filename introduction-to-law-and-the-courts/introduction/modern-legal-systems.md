@@ -39,6 +39,7 @@ Civil law systems were developed in Europe and are based on Roman and Napoleonic
 #### "Civil Law" vs. "Civil Law"
 
 Be sure to avoid confusing civil law as a _system_ with civil law in the United States. In the U.S. legal sytem, "civl law" refers to areas of law that are not criminal in nature.
+
 {% endhint %}
 
 Civil law systems are inquisitorial systems in which judges actively investigate cases. Judges have the authority to request documents and testimony, as well as to shape the parties’ legal claims. In addition, judges are not required to follow the decisions of other courts in similar cases. The law is in the code, not in the cases. The legislature, not the courts, is the primary place to enact and modify laws.
