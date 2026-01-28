@@ -512,6 +512,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/substantive_due
 
 ***
 
+#### summary judgment
+
+a judgment entered by a court for one party and against another party without a full trial
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/substantive_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### supra
 
 used to reference a source that was referenced earlier in the same document
