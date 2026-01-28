@@ -296,6 +296,12 @@ Source: [Model Penal Code § 1.13(4)](https://www.criminallawweb.net/web1/mpc/mp
 
 ***
 
+#### open license
+
+If a copyrighted work is openly licensed, others have the "right access, reuse, and redistribute a work with few or \[sometimes] no restrictions." See[ _Understanding Open Licenses_](https://usq.pressbooks.pub/openpublishingguideforauthors/chapter/understanding-open-licences/) for more information.
+
+***
+
 #### order
 
 a decision issued by a court or authoritative body
