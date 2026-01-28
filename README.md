@@ -6,7 +6,7 @@ icon: house
 
 ## Welcome to Studies De Jure
 
-The primary purpose of this site will be to host [open educational resources](#user-content-fn-1)[^1] for undergraduate legal course content.&#x20;
+The primary purpose of this site will be to host [open educational resources](#user-content-fn-1)[^1] for undergraduate legal course content.
 
 {% hint style="warning" %}
 :construction\_site: _This site is a work in progress_, so most of the content is not in the "final" form. :construction:

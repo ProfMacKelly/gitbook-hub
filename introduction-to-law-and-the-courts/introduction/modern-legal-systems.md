@@ -36,6 +36,8 @@ The common law tradition is unique to England, the United States, and former Bri
 Civil law systems were developed in Europe and are based on Roman and Napoleonic law. Civil law systems are also called code systems because all the legal rules are in one or more comprehensive legislative enactments. During Napoleon’s reign, a comprehensive book of laws—a code—was developed for all of France. The code covered criminal law and procedure, non-criminal law and procedure, and commercial law. The code is used to resolve only cases brought to the courts, which are usually decided by judges without a jury.
 
 {% hint style="warning" %}
+#### "Civil Law" vs. "Civil Law"
+
 Be sure to avoid confusing civil law as a _system_ with civil law in the United States. In the U.S. legal sytem, "civl law" refers to areas of law that are not criminal in nature.
 {% endhint %}
 
